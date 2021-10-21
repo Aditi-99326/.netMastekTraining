@@ -1,0 +1,16 @@
+D:\training\.net\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.exe
+D:\training\.net\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.deps.json
+D:\training\.net\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.json
+D:\training\.net\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.dev.json
+D:\training\.net\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.dll
+D:\training\.net\LINQDemo\LINQDemo\bin\Debug\net5.0\ref\LINQDemo.dll
+D:\training\.net\LINQDemo\LINQDemo\bin\Debug\net5.0\LINQDemo.pdb
+D:\training\.net\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.csproj.AssemblyReference.cache
+D:\training\.net\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\.net\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfoInputs.cache
+D:\training\.net\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfo.cs
+D:\training\.net\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.csproj.CoreCompileInputs.cache
+D:\training\.net\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.dll
+D:\training\.net\LINQDemo\LINQDemo\obj\Debug\net5.0\ref\LINQDemo.dll
+D:\training\.net\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.pdb
+D:\training\.net\LINQDemo\LINQDemo\obj\Debug\net5.0\LINQDemo.genruntimeconfig.cache
