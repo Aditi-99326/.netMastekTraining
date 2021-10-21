@@ -1,0 +1,16 @@
+D:\training\.net\DemoAppMaker\DemoAppMaker\bin\Debug\net5.0\DemoAppMaker.exe
+D:\training\.net\DemoAppMaker\DemoAppMaker\bin\Debug\net5.0\DemoAppMaker.deps.json
+D:\training\.net\DemoAppMaker\DemoAppMaker\bin\Debug\net5.0\DemoAppMaker.runtimeconfig.json
+D:\training\.net\DemoAppMaker\DemoAppMaker\bin\Debug\net5.0\DemoAppMaker.runtimeconfig.dev.json
+D:\training\.net\DemoAppMaker\DemoAppMaker\bin\Debug\net5.0\DemoAppMaker.dll
+D:\training\.net\DemoAppMaker\DemoAppMaker\bin\Debug\net5.0\ref\DemoAppMaker.dll
+D:\training\.net\DemoAppMaker\DemoAppMaker\bin\Debug\net5.0\DemoAppMaker.pdb
+D:\training\.net\DemoAppMaker\DemoAppMaker\obj\Debug\net5.0\DemoAppMaker.csproj.AssemblyReference.cache
+D:\training\.net\DemoAppMaker\DemoAppMaker\obj\Debug\net5.0\DemoAppMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\.net\DemoAppMaker\DemoAppMaker\obj\Debug\net5.0\DemoAppMaker.AssemblyInfoInputs.cache
+D:\training\.net\DemoAppMaker\DemoAppMaker\obj\Debug\net5.0\DemoAppMaker.AssemblyInfo.cs
+D:\training\.net\DemoAppMaker\DemoAppMaker\obj\Debug\net5.0\DemoAppMaker.csproj.CoreCompileInputs.cache
+D:\training\.net\DemoAppMaker\DemoAppMaker\obj\Debug\net5.0\DemoAppMaker.dll
+D:\training\.net\DemoAppMaker\DemoAppMaker\obj\Debug\net5.0\ref\DemoAppMaker.dll
+D:\training\.net\DemoAppMaker\DemoAppMaker\obj\Debug\net5.0\DemoAppMaker.pdb
+D:\training\.net\DemoAppMaker\DemoAppMaker\obj\Debug\net5.0\DemoAppMaker.genruntimeconfig.cache
